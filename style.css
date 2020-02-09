@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,700');
 
 /* general style */
 html, body{
@@ -179,6 +179,7 @@ h6{
 	}
 	.carousel-caption h3{
 		font-size: 90%;
+		font-weight: 200;
 		padding-bottom: 0.2rem;
 	}
 	.carousel-caption .btn{
